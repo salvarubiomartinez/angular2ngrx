@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "pepe",
+      "age": 53,
+      "comments": "un buen muchacho",
+      "gender": 1
+    },
+    {
+      "name": "jaime",
+      "age": "22",
+      "id": 12
+    },
+    {
+      "name": "mamma",
+      "age": "33",
+      "id": 13
+    },
+    {
+      "name": "tgtgtgt",
+      "age": "22",
+      "id": 14
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server333",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment333",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode333"
+  }
+}
